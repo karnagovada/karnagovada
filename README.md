@@ -42,8 +42,8 @@
 ---
 
 ## ✨ Let's Connect  
-- 📫 [Email Me](mailto:karnagovada@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/karna-govada-63415a349?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+- 📫 [Email Me](mailto:@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/)  
 - 🌐 [Portfolio/Website](https://your-website.com)  
 
 ---
