@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Karna 
 
-<!--
-**karnagovada/karnagovada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Computer Science student | 💻 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently learning **Full-Stack Development** step by step  
+- 💡 Passionate about **automation, problem-solving, and clean code**  
+- 📊 Experienced in **Google Sheets automation** for workflow productivity  
+- 🎯 Goal: Build impactful projects and grow as a versatile developer  
+
+---
+
+## 💻 Tech Skills  
+**Languages:**  
+- C  
+- Java  
+- Python
+- PHP
+
+**Database**
+-Sql(oracle)
+-Mysql
+-MangoDB(no Sql)
+
+**Web Development:**  
+- HTML5 / CSS3 / Js (beginner, learning frontend fundamentals)  
+
+**Tools & Interests:**  
+- Google Sheets Automation  
+- Creative Coding   
+- Exploring Databases & Backend Systems  
+
+---
+
+## 📈 Current Focus  
+- Automating daily reporting with error-free workflows  
+- Building sample projects that combine **frontend + backend + databases**  
+- Contributing to open-source and learning from real-world projects  
+
+---
+
+## ✨ Let's Connect  
+- 📫 [Email Me](mailto:karnagovada@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/karna-govada-63415a349?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+- 🌐 [Portfolio/Website](https://your-website.com)  
+
+---
